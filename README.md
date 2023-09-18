@@ -21,7 +21,9 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-<!--- horizontal split
+<!--- horizontal split -->
+---
+* 🌱 Currently learning **C++** and dabbling in **Vulkan**
 
 <!--
 **chrisuka/chrisuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +31,6 @@
 TODO:
 - My stats ...
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 📫 How to reach me: ...
 -->
